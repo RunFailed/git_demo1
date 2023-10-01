@@ -15,5 +15,6 @@ int main()
         cout << "222222222222" << endl;
         cout << "333333333333" << endl;
         cout << "first fix" << endl;    //master fix
+        // second hot fix
         return 0;
 }
