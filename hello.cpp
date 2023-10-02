@@ -17,5 +17,6 @@ int main()
         cout << "first fix" << endl;    //master fix
         // second hot fix
         // remote_fix01
+        // After cloned, local fix01
         return 0;
 }
